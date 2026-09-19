@@ -1,2 +1,1 @@
-Java implementation of the patterns  Software Design Patterns.
-
+Java implementation of the Software Design Patterns.
